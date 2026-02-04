@@ -23,7 +23,7 @@ After registering:
 
 | | Date |
 |---|---|
-| Challenge Opens | February 3, 2026 |
+| Challenge Opens | February 4, 2026 |
 | Submission Deadline | February 13, 11:59 PM EST |
 | Winners Announced | February 15 |
 | Assemble NYC | March 16-18, 2026 |
